@@ -1,9 +1,0 @@
- Volume in drive C has no label.
- Volume Serial Number is C0EA-9EB7
-
- Directory of C:\Users\shalini.ananthan.DIR\OneDrive - Accenture\Desktop\Tools\gitsample
-
-04/22/2022  04:20 PM               309 sample.txt
-04/25/2022  03:08 PM                 0 txt.txt
-               2 File(s)            309 bytes
-               0 Dir(s)  116,367,462,400 bytes free
